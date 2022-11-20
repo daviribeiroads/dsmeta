@@ -25,3 +25,11 @@ header {
     font-size: 14px;
     font-weight: 300;
 }
+
+#professor {
+    text-align: center;
+}
+
+#aluno {
+    text-align: center;
+}
